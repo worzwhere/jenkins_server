@@ -7,3 +7,6 @@ cd jenkins
 chmod 775 deploy_jenkins.sh
 ./deploy_jenkins.sh
 ```
+
+Jenkins admin username. Default: user
+Jenkins admin password. Default: bitnami
