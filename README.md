@@ -11,5 +11,5 @@ chmod 775 deploy_jenkins.sh
 First login with user and password belows
 ```
 Jenkins admin username. Default: user
-Jenkins admin password. Default: oracle4u
+Jenkins admin password. Default: bitnami
 ```
